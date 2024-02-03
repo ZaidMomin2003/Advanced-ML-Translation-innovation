@@ -1,3 +1,5 @@
+#The provided code uses Tkinter for a GUI application. It manages a dictionary of words, allowing users to add, search, delete, update, and export words. It also offers dark mode functionality for a personalized interface.
+
 import tkinter as tk
 from tkinter import messagebox, filedialog
 import csv
