@@ -1,3 +1,5 @@
+#This Python code utilizes Tkinter to create a GUI application for translating sentences and managing word dictionaries. It allows users to add words, translate sentences, upload CSV files, and toggle dark mode.
+
 import tkinter as tk
 from tkinter import messagebox, filedialog
 import csv
