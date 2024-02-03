@@ -1,3 +1,14 @@
+'''The provided code creates a simple language translator application using Tkinter. Here's how it works:
+
+- The application interface allows users to enter text in one language.
+- Users can choose the language they want to translate the input text into from a dropdown menu.
+- When the "Translate" button is clicked, the input text is translated into the selected language using the Google Translate API.
+- The translated text is displayed in another text entry field.
+- The "Speak" button allows users to listen to the translated text using the gTTS (Google Text-to-Speech) library.
+- The "Clear" button clears both the input and output text fields.
+
+The application provides a basic interface for translating and listening to text in different languages.''''
+
 from tkinter import *
 from tkinter import ttk, messagebox
 from googletrans import Translator
