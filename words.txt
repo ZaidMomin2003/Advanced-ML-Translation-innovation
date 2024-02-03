@@ -1,0 +1,70 @@
+pani:water
+perr:milk
+gante:time
+salam:hello
+kaisa hai:how are you
+khana ho gaya?:had food?
+sab theek?:everything good?
+khana:food
+sab theek:all good
+kaisa:how
+sab:all
+ho:are
+theekk:good
+huwa:had
+paisa:money
+parle:drink
+hai:is
+aur:and
+mai:me
+eer:you
+meri madad karega:willl you help me
+meri madad mat kar:dont help me
+mar gaya:he died
+suwar:pig
+yaan:i
+aal:she
+aaye:he
+akl:they
+undu:this
+avu:that
+moolu:here
+awlu:there
+olu:where
+andh:yes
+ijji:no
+aawu:ok
+pola:go
+panle:tell
+panodchi:don't tell
+bale:come
+barodchi:don't come
+korle:give
+korodchi:don't give
+parodchi:don't drink
+kullu:sit
+telipu:laugh
+unt:stop
+leppu:call
+manpu:do
+barela:write
+odla:read
+detonu:take
+tin:eat
+balipu:run
+lakk:get up
+nalipu:dance
+how are you:yencha ullar
+maa:am
+usaarulle:fine
+i am fine:yaan usaarulle
+yaan usaarulle:i am fine
+yepa battini:when did you come
+yepa:when
+life is best:adipawala vasti
+enter a sentence:adipala kusuma
+daya maltadu:please
+parodchi:don'tdrink
+marl:don't
+namo:name
+juk:bike
