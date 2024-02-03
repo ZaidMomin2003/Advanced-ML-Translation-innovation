@@ -1,3 +1,5 @@
+# This is the repository where the machine stores all the data it has been provided with. It keeps track of every word or sentence it learns during its operation.
+
 pani:water
 perr:milk
 gante:time
